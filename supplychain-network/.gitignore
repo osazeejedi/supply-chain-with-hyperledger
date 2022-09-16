@@ -1,0 +1,7 @@
+organizations/fabric-ca
+organizations/peerOrganizations
+organizations/ordererOrganizations
+chaincode-lifecycle-scripts/supplychain.tar.gz
+chaincode-env-scripts/*
+README.md
+channel-artifacts/*
